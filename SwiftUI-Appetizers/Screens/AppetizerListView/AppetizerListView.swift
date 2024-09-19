@@ -53,3 +53,4 @@ struct AppetizerList_Previews: PreviewProvider {
             .preferredColorScheme(.light)
     }
 }
+
